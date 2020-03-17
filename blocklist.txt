@@ -1,5 +1,5 @@
 0.0.0.0 r1---sn-qo5-ixal.googlevideo.com
-0.0.0.0 r2---sn-qo5-ixal.googlevideo.com
+#0.0.0.0 r2---sn-qo5-ixal.googlevideo.com
 0.0.0.0 r3---sn-qo5-ixal.googlevideo.com
 0.0.0.0 r4---sn-qo5-ixal.googlevideo.com
 0.0.0.0 r5---sn-qo5-ixal.googlevideo.com
